@@ -1,0 +1,8 @@
+asl-env/
+__pycache__/
+*.pyc
+hand_landmarker.task
+asl_letter_model_mac.joblib
+captures/
+training_images/
+.DS_Store
